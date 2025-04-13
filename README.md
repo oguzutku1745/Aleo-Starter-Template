@@ -27,8 +27,8 @@ Note: Fox Wallet only supports Mainnet
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oguzutku1745/snarkcollective.git
-   cd snarkcollective
+   git clone https://github.com/oguzutku1745/Aleo-Starter-Template.git
+   cd Aleo-Starter-Template
    ```
 
 2. Install dependencies:
